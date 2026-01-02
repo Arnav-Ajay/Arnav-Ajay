@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I’m Arnav
 
-<!--
-**Arnav-Ajay/Arnav-Ajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m exploring **AI systems development**, with a current focus on **Retrieval-Augmented Generation (RAG), AI agents, and evaluation of LLM-based systems**.
 
-Here are some ideas to get you started:
+Right now, I’m learning by **building small, runnable systems** and publishing them openly — starting from minimal baselines and gradually adding complexity. My goal is to understand *how these systems actually behave*, where they fail, and what design choices matter in practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially interested in:
+- RAG systems and retrieval quality
+- Agent design (planning, tools, memory)
+- Evaluation, observability, and failure modes
+- Turning research ideas into working code
+
+Most repositories here are **experiments, baselines, or learning artifacts**, not production frameworks. They are designed to be simple, inspectable, and honest about limitations.
+
+I’m documenting this journey publicly to build depth over time and to make my learning reusable for others.
