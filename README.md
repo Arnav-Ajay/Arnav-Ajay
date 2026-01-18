@@ -1,15 +1,29 @@
-### 👋 Hi, I’m Arnav
+👋 Hi, I’m Arnav
 
-I’m exploring **AI systems development**, with a current focus on **Retrieval-Augmented Generation (RAG), AI agents, and evaluation of LLM-based systems**.
+I’m focused on **AI systems engineering**, with an emphasis on understanding how
+LLM-based systems *actually behave* under real constraints.
 
-Right now, I’m learning by **building small, runnable systems** and publishing them openly — starting from minimal baselines and gradually adding complexity. My goal is to understand *how these systems actually behave*, where they fail, and what design choices matter in practice.
+My current work centers on:
 
-I’m especially interested in:
-- RAG systems and retrieval quality
-- Agent design (planning, tools, memory)
-- Evaluation, observability, and failure modes
-- Turning research ideas into working code
+- Retrieval-Augmented Generation (RAG)
+- Agent architectures (planning, tools, memory)
+- Evaluation, observability, and failure modes in LLM systems
 
-Most repositories here are **experiments, baselines, or learning artifacts**, not production frameworks. They are designed to be simple, inspectable, and honest about limitations.
+I’m learning by building **small, inspectable systems** and publishing them openly.
+Each repository is designed to isolate one idea, decision, or failure mode —
+starting from minimal baselines and adding complexity only when justified.
 
-I’m documenting this journey publicly to build depth over time and to make my learning reusable for others.
+This is not about demos or frameworks.
+
+Most repositories here are:
+- controlled experiments
+- system baselines
+- evaluation harnesses
+- learning artifacts with explicit assumptions and limits
+
+The goal is long-term:  
+to develop sound intuitions about system design, tradeoffs, and failure —
+and to turn research ideas into working, testable code.
+
+If you’re interested in **how modern AI systems break — and how to reason about them**,
+this profile is a public record of that process.
